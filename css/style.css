@@ -1,0 +1,22 @@
+/* TAG Selector */
+#heading {
+  font-family:"Georgia", serif;
+  color: #de4851
+}
+#heading:hover {
+  color: #FFA500
+}
+a {
+  text-decoration: none;
+}
+p {
+  font-family: "Courier New", monospace;
+}
+
+/* CLASS Selector */
+/* .first {
+  color: powderblue;
+} */
+.circular {
+  border-radius: 5%
+}
